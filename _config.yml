@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  :  # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : FC24&FUT Card Creator                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : We are proud to introduce the Free FC 24 Card Creator, The best Card Creator App.
@@ -20,15 +20,15 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
- your_name                                 : Player Creator App
- your_link                                 :
- your_city                                 :
- email_address                             : scooter48954@gmail.com
- facebook_username                         :
- instagram_username                        :
- twitter_username                          :
- github_username                           :
- youtube_username                          :
+ # your_name                                 : Player Creator App
+ # your_link                                 :
+ # your_city                                 :
+ # email_address                             : scooter48954@gmail.com
+ # facebook_username                         :
+ # instagram_username                        :
+ # twitter_username                          :
+ # github_username                           :
+ # youtube_username                          :
 
 
 
