@@ -15,20 +15,21 @@ app_name                                  : FC24&FUT Card Creator               
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : We are proud to introduce the Free FC 24 Card Creator, The best Card Creator App.
 
-enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
- # your_name                                 : Player Creator App
- # your_link                                 :
- # your_city                                 :
- # email_address                             : scooter48954@gmail.com
- # facebook_username                         :
- # instagram_username                        :
- # twitter_username                          :
- # github_username                           :
- # youtube_username                          :
+your_name                                 : Nine Hearts                                
+your_link                                 :                      
+your_city                                 : Malta                                
+email_address                             : MaltaDrivingTheoryTest@hotmail.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : MNineHearts/Malta-Driving-Theory-Test
+youtube_username                          :
 
 
 
